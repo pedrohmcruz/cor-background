@@ -3,7 +3,7 @@
 <p>O projeto consiste em mudar o background da página com a cor digitada dentro do campo</p>
 
 <ul>
-  <li>Nome: Nome da cor/li>
+  <li>Nome: Nome da cor</li>
   <li>RGB: Valor RGB da cor</li>
   <li>Hexadecimal: Sistema de numeração hexadecimal</li>
 </ul>
