@@ -9,4 +9,5 @@
   <li>Hexadecimal: Sistema de numeração hexadecimal</li>
 </ul>
 
-![projetoMudarCoresBody (1)](https://user-images.githubusercontent.com/96451066/192071163-b3fba334-2b7e-4c91-b872-ae430382259a.gif)
+![2022-09-23 21-22-18](https://user-images.githubusercontent.com/96451066/192072056-dfafa4df-5ff4-4fa8-beee-d1f6ec280a86.gif)
+
