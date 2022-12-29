@@ -1,7 +1,7 @@
 <h1>Mudando cor do background</h1>
 
 <p>O projeto consiste em mudar o background da página com a cor digitada dentro do campo.</p>
-<p><strong>Link do projeto:</strong> </p>
+<p><strong>Link do projeto:</strong> https://pedrohmcruz.github.io/cor-background/</p>
 
 <ul>
   <li>Nome: Nome da cor</li>
